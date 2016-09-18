@@ -1,5 +1,5 @@
 # rps-random
-A single-player rock-paper-scissors game against the computer
+A single-player rock-paper-scissors game against random moves from the computer
 
 ### Instructions
 Simply run `./rps_random` to start!
